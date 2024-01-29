@@ -1,6 +1,6 @@
 # Hello
 
-My name is Arthur. I love programming and making games. (https://spectralo.icth.io/)
+My name is Arthur. I love programming and making games. (My [itch.io](https://spectralo.itch.io/))
 
 # My projects
 
