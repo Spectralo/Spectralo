@@ -1,8 +1,7 @@
-# Hello
+# nothing there ...
 
-My name is Arthur. I love programming and making games. (My [itch.io](https://spectralo.itch.io/))
+It's blank ... \
+or is it ?
 
-# My projects
-
-**My portfolio site** : A nuxt based website (https://spectralo.me/) \
-**A clicker game about ducks** : https://spectralo.itch.io/duck-clicker 
+[comment]: <> (You're smart)
+[comment]: <> (but it's still useless :/ )
